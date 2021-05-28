@@ -29,11 +29,13 @@ body {
 .old-text {
   text-align: end;
   margin-right: 5px;
+  word-wrap: break-word;
 }
 
 .new-text {
   text-align: end;
   margin-right: 5px;
+  word-wrap: break-word;
 }
 
 #operator-container {
