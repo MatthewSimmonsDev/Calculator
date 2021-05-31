@@ -100,3 +100,9 @@ body {
   padding-top: 10px;
   cursor: pointer;
 }
+
+@media screen and (max-width: 375px) {
+  #container {
+    width: 355px;
+  }
+}
